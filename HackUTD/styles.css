@@ -1,0 +1,78 @@
+body {
+    background: rgba(96, 146, 123, 1.0);
+    background: -webkit-linear-gradient(top left, rgba(96, 146, 123, 1.0), rgba(91, 146, 221, 1.0));
+    background: -moz-linear-gradient(top left, rgba(96, 146, 123, 1.0), rgba(91, 146, 221, 1.0));
+    background: linear-gradient(to bottom right, rgba(96, 146, 123, 1.0), rgba(91, 146, 221, 1.0));
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: black;
+    font-family: Montserrat;
+    text-align: center;
+  }
+  
+  .header {
+    margin-top: 2rem;
+  }
+  
+  .container{
+    background: white;
+    border-radius: 1rem;
+    padding: 2rem;
+    margin: 11rem auto;
+    text-align: center;
+  }
+
+  .risk-container{
+    background: white;
+    border-radius: 1rem;
+    padding: 2rem;
+    margin: 5rem auto 2rem auto;
+    text-align: center;
+    width: 90%;
+  }
+  
+  .first{
+    padding: 2rem;
+    padding-bottom: 1rem;
+  }
+  
+  .custom-select{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .form{
+    padding: 2rem;
+  }
+
+  a{
+    color: black;
+  }
+
+  .good
+  {
+    color: green;
+  }
+
+  .mid
+  {
+    color: orangered;
+  }
+
+  .bad
+  {
+    color:red;
+  }
+
+  .companies
+  {
+    background: white;
+    border-radius: 1rem;
+    padding: 2rem 2rem 1rem 2rem;
+    margin: auto auto 2rem auto;
+    text-align: center;
+    width: 45%;
+  }
+
+  
